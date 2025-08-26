@@ -1,0 +1,26 @@
+h1{
+    font-family:cpperplate;
+    letter-spacing:10px;
+    text-align:center;
+    text-decoration:red underline
+}
+p{
+    font-size:3cqw;
+    font-weight:bold;
+    text-align:right;
+    line-height:2.5;
+    font-family:arial;
+}
+h2{
+    text-decoration: wavy overline ;
+    text-align:left;
+}
+h3{
+    text-align:justify;
+}
+h1{
+    font-weight:normal;
+}
+button{
+    font-decoration:line-through;
+}
